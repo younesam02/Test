@@ -1,2 +1,6 @@
 E-Challenge 2025
+<<<<<<< Updated upstream
 
+=======
+op
+>>>>>>> Stashed changes
